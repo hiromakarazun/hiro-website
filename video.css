@@ -2,6 +2,20 @@ body {
     margin: 20px;
 }
 /*this is the whole block for each square*/
+
+.column-videos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap: 20px;
+}
+
+@media (max-width: 1000px) {
+    .column-videos {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
 .video-preview {
     display: inline-block;
     width: 100%;

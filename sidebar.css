@@ -16,6 +16,8 @@
         justify-content: center;
         text-align: center;
         flex-direction: column;
+        text-decoration: none;
+        color: black;
     }
 
     .sidebar-link:hover {

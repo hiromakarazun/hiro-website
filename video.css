@@ -23,6 +23,8 @@ body {
     vertical-align: top;
     padding: 4px;
     position: relative;
+    text-decoration: none;
+    color: black;
 }
 
 .img {

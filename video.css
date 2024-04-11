@@ -124,6 +124,8 @@ body {
     font-size: 14px;
     padding-bottom: 0px;
     margin-bottom: 0px;
+    text-decoration: none;
+    color: black;
 }
 
 .creator {
@@ -132,10 +134,12 @@ body {
     padding-top: 10px;
     margin-bottom: 0;
     color: rgb(96, 96, 96);
+    text-decoration: none;
 }
 
 .views {
     font-size: 12px;
     margin-top: 0;
     color: rgb(96, 96, 96);
+    text-decoration: none;
 }
